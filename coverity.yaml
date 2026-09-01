@@ -1,0 +1,9 @@
+analyze:
+  aggressiveness-level: high
+  checkers:
+    all: true
+caching:
+  enabled: true
+#capture:
+ # files:
+  #  exclude-regex: ^\\mi-dmz\\java\\.*
